@@ -1,0 +1,12 @@
+define var i as integer.                        
+define var adn-num like buyer-a.seq-num.        
+define var list as char No-Undo.                
+for each buyer-a where audit-dt = 01/10/1995:   
+adn-num = buyer-a.seq-num.                      
+list = list + char(adn-num).                    
+<Connection Terminated>                         
+/*message i view-as alert-box.*/                
+                                                
+                                                
+                                                
+                                                
