@@ -1,2 +1,2 @@
 # testrepo
-Testing GITHUB Repositories
+Testing github functionality
